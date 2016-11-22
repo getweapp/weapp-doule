@@ -1,0 +1,4 @@
+<!-- 收藏 -->
+<view>
+	<text>{{dec}}</text>
+</view>
